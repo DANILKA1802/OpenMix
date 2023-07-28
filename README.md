@@ -1,2 +1,2 @@
 # OpenMix
-f
+open digital audio mixing software
